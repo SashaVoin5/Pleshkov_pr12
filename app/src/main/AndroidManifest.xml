@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pleshkov_pr12">
         <activity
+            android:name=".MainActivity11"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity10"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity8"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity7"
             android:exported="false" />
         <activity
